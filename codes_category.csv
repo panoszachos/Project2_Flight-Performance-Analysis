@@ -1,0 +1,5 @@
+,code,category,description
+0,A,Carrier,"Airline-related issue (crew, maintenance, aircraft availability)"
+1,B,Weather,"Weather conditions (storms, fog, wind etc.)"
+2,C,NAS,"National Airspace System (ATC, congestion, runway closures)"
+3,D,Security,Security-related issue (rare)
